@@ -1,0 +1,7 @@
+{
+  "title": "Pigeons of New York",
+  "description": "Assets pertaining to Dungeons and Dragons campaign running in Ignition",
+  "parent": "global",
+  "enabled": true,
+  "inheritable": false
+}
